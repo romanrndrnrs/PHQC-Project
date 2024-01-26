@@ -1,0 +1,9 @@
+graphix
+graphix-ibmq
+graphix-perceval
+numpy
+cmath
+qiskit
+perceval
+matplotlib
+numpy
